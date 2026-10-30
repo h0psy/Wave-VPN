@@ -20,7 +20,7 @@ version 1.2.3 data 10.30.2026
 2. обновлен data_server.txt
 3. можно оформить подписку в самом приложении а не на сайте
 4. опция Tweeks была обнавлена
-5. права ROOT был именен
+5. права ROOT был изменен
 6. были обновлены домены quic_initial_steamcommunity_com.bin,quic_initial_tencent_com.bin,quic_initial_www_google_com
 7. были обновлены домены stun.bin,stun2.bin,tls_clienthello_4pda_to.bin,tls_clienthello_5ka_ru.bin,tls_clienthello_www_google_com.bin
 8. были переработаны .dll файлы настроек
